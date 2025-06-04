@@ -50,12 +50,9 @@
                 <div class="card">
                     <img src="img/projeto-2.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
                     <div class="card-body">
-                        <h5 class="card-title"> Detecção Precoce de doenças infecciosas em comunidades vulneráveis
+                        <h5 class="card-title"> Análise da Qualidade da Água Consumida pela População
                             Artificial</h5>
-                        <p class="card-text">Este projeto ajuda identificar doenças infecciosas (como dengue, hepatite ou tuberculose) 
-                        de forma precoce em comunidades que têm pouco acesso a exames e serviços de saúde.
-                        Coletando amostras, fazendo exames em labortório (como emograma, sorologia)
-                        divulgando os resultados e ajudar no encaminhamento para o tratamento.</p>
+                        <p class="card-text">Este projeto  analisa a água de torneiras, poços e caixas d’água para verificar se ela está contaminada com bactérias, parasitas ou produtos químicos.</p>
                         <button type="button" class="btn btn-link">Veja o projeto</button>
                     </div>
                 </div>
@@ -66,12 +63,10 @@
                 <div class="card">
                     <img src="img/projeto-3.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
                     <div class="card-body">
-                        <h5 class="card-title"> Detecção Precoce de doenças infecciosas em comunidades vulneráveis
+                        <h5 class="card-title"> Campanha de Prevenção ao Câncer de Colo do Útero com Coleta de Papanicolau
                         </h5>
-                        <p class="card-text">Este projeto ajuda identificar doenças infecciosas (como dengue, hepatite ou tuberculose) 
-                        de forma precoce em comunidades que têm pouco acesso a exames e serviços de saúde.
-                        Coletando amostras, fazendo exames em labortório (como emograma, sorologia)
-                        divulgando os resultados e ajudar no encaminhamento para o tratamento.
+                        <p class="card-text"> Um projeto que oferece exames de Papanicolau gratuitos para mulheres,
+principalmente em regiões com pouco acesso à saúde.
                         </p>
                         <button type="button" class="btn btn-link">Veja o projeto</button>
                     </div>
