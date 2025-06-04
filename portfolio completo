@@ -1,0 +1,88 @@
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Meu portfólio</title>
+</head>
+
+<body>
+    <header>
+       <p>Eu sou Vitória Karoline_</p>
+        <h1>Eu biomedica</h1>
+        <p>Sou biomédica da área de saúde que estuda o corpo humano,os microroganismos, e as doenças e como preveni-las</p>
+        <p>Análise de dados, desenvolvimentos de tecnologias, pesquisas e inovação</p>
+        <div>
+            <p>HTML</p>
+            <p>CSS</p>
+            <p>JavaScript</p>
+            <p>Scratch</p>
+        </div>
+    </header>
+</body>
+
+</html>
+       </header>
+    <main class="container mt-5">
+        <h2>Meus projetos</h2>
+        <div class="row">
+            <!-- Projeto 1 -->
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="img/projeto-1.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
+                    <div class="card-body">
+                        <h5 class="card-title"> Detecção Precoce de doenças infecciosas em comunidades vulneráveis</h5>
+                        <p class="card-text"> Este projeto ajuda identificar doenças infecciosas (como dengue, hepatite ou tuberculose) 
+                        de forma precoce em comunidades que têm pouco acesso a exames e serviços de saúde.
+                        Coletando amostras, fazendo exames em labortório (como emograma, sorologia)
+                        divulgando os resultados e ajudando no encaminhamento para o tratamento.
+                        </p>
+                        <button type="button" class="btn btn-link">Veja o projeto</button>
+                    </div>
+                </div>
+            </div>
+            <!-- Projeto 2 -->
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="img/projeto-2.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
+                    <div class="card-body">
+                        <h5 class="card-title"> Detecção Precoce de doenças infecciosas em comunidades vulneráveis
+                            Artificial</h5>
+                        <p class="card-text">Este projeto ajuda identificar doenças infecciosas (como dengue, hepatite ou tuberculose) 
+                        de forma precoce em comunidades que têm pouco acesso a exames e serviços de saúde.
+                        Coletando amostras, fazendo exames em labortório (como emograma, sorologia)
+                        divulgando os resultados e ajudar no encaminhamento para o tratamento.</p>
+                        <button type="button" class="btn btn-link">Veja o projeto</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Projeto 3 -->
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="img/projeto-3.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
+                    <div class="card-body">
+                        <h5 class="card-title"> Detecção Precoce de doenças infecciosas em comunidades vulneráveis
+                        </h5>
+                        <p class="card-text">Este projeto ajuda identificar doenças infecciosas (como dengue, hepatite ou tuberculose) 
+                        de forma precoce em comunidades que têm pouco acesso a exames e serviços de saúde.
+                        Coletando amostras, fazendo exames em labortório (como emograma, sorologia)
+                        divulgando os resultados e ajudar no encaminhamento para o tratamento.
+                        </p>
+                        <button type="button" class="btn btn-link">Veja o projeto</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="container py-5">
+        <h2>Entre em contato</h2>
+        <div>
+         <p>vitoriabiomed.@gmail.com</p>
+        
+            
